@@ -8,7 +8,7 @@ This layout is inspired by Linux/Xorg "USA International (AltGr dead keys)" whic
 ```
 ` ~    1!¡¹   2@²    3#³   4$¤£   5%€    6 ^    7&½¼   8*¾    9(‘    0)’    -_’±   =+×÷   Backspace
 
-Tab       Q äÄ   W åÅ   E éÉ   R ®   T þÞ   Y üÚ   U úÚ   I íÍ   O óÓ   P öÖ   [{«“   ]}»”   \|¬¦
+Tab       Q äÄ   W åÅ   E éÉ   R ®   T þÞ   Y üÚ   U úÚ   I íÍ   O óÓ   P öÖ   [{«“   ]}»”     \|¬¦
    
 CapsLock    A áÁ   S ß§   D ðÐ   F ª   G º    H      J      K      L øØ   ;:¶°   '"¨          Enter
       
